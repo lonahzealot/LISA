@@ -1,0 +1,26 @@
+* {
+    background: none;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+header {
+    display: flex;
+    padding: 2rem 9%;
+    justify-content: space-between;
+    background: #000;
+}
+
+.logo {
+    font-size: 2rem;
+    font-weight: 500;
+    color: white;
+}
+
+header nav .navbar {
+gap: 3rem;
+}
